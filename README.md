@@ -4,11 +4,11 @@
 This project is a part of a collaborative effort between a group of fellows at the Flatiron Data Science Fellowship. 
 
 ### Project Members
-Misha Berrien: GitHub, Personal Website
-Cliff Bridges: GitHub, Personal Website
-Tim Christy: GitHub, Personal Website
-Kate Hayes: GitHub
-Nateé Johnson: Github, Personal Website
+* Misha Berrien: GitHub, Personal Website
+* Cliff Bridges: GitHub, Personal Website
+* Tim Christy: GitHub, Personal Website
+* Kate Hayes: GitHub
+* Nateé Johnson: Github, Personal Website
 
 
 #### -- Project Status: [Active]
